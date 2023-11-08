@@ -10,7 +10,6 @@ Este repositório representa meus estudos sobre como aplicar os cinco princício
 4. **I** - Interface Segragtion Principle (Princípio de Segregação de Interface)
 5. **D** - Denpency Inversion Principle (Princípio de Inversção de Dependência)
 
-### Será Dois Projetos Simulando um Carrinho de Compra
+### Será um carrinho de compras online
 
-O primeiro carrinho de compra não terá os princícios SOLID e o segundo será desenvolvido seguindo as regras.
-
+O algoritimo simula o funcionamento de um carrinho de compras online, e a lógica é desenvolver a solução sem pensar nos princípios e depois refatorar o código com a finalidade de atender os requisitos dos princípios.
